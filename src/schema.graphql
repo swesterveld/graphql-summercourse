@@ -1,4 +1,3 @@
 type Query {
     hello: String
-    hello_you(name: String): String
 }
